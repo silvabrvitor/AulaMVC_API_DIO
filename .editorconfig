@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1591: O comentário XML ausente não foi encontrado para o tipo ou membro visível publicamente
+dotnet_diagnostic.CS1591.severity = suggestion
